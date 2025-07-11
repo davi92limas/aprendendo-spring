@@ -1,0 +1,16 @@
+/Users/davi/Documents/dev/java/aprendendo-spring/src/main/java/com/davi/aprendendospring/AprendendoSpringApplication.java
+/Users/davi/Documents/dev/java/aprendendo-spring/src/main/java/com/davi/aprendendospring/business/UsuarioService.java
+/Users/davi/Documents/dev/java/aprendendo-spring/src/main/java/com/davi/aprendendospring/controller/UsuarioController.java
+/Users/davi/Documents/dev/java/aprendendo-spring/src/main/java/com/davi/aprendendospring/controller/dtos/UsuarioDTO.java
+/Users/davi/Documents/dev/java/aprendendo-spring/src/main/java/com/davi/aprendendospring/infrastructure/entity/Endereco.java
+/Users/davi/Documents/dev/java/aprendendo-spring/src/main/java/com/davi/aprendendospring/infrastructure/entity/Telefone.java
+/Users/davi/Documents/dev/java/aprendendo-spring/src/main/java/com/davi/aprendendospring/infrastructure/entity/Usuario.java
+/Users/davi/Documents/dev/java/aprendendo-spring/src/main/java/com/davi/aprendendospring/infrastructure/exceptions/ConflitExeption.java
+/Users/davi/Documents/dev/java/aprendendo-spring/src/main/java/com/davi/aprendendospring/infrastructure/exceptions/ResourceNotFoundExeception.java
+/Users/davi/Documents/dev/java/aprendendo-spring/src/main/java/com/davi/aprendendospring/infrastructure/repository/EnderecoRepository.java
+/Users/davi/Documents/dev/java/aprendendo-spring/src/main/java/com/davi/aprendendospring/infrastructure/repository/TelefoneRepository.java
+/Users/davi/Documents/dev/java/aprendendo-spring/src/main/java/com/davi/aprendendospring/infrastructure/repository/UsuarioRepository.java
+/Users/davi/Documents/dev/java/aprendendo-spring/src/main/java/com/davi/aprendendospring/infrastructure/security/JwtRequestFilter.java
+/Users/davi/Documents/dev/java/aprendendo-spring/src/main/java/com/davi/aprendendospring/infrastructure/security/JwtUtil.java
+/Users/davi/Documents/dev/java/aprendendo-spring/src/main/java/com/davi/aprendendospring/infrastructure/security/SecurityConfig.java
+/Users/davi/Documents/dev/java/aprendendo-spring/src/main/java/com/davi/aprendendospring/infrastructure/security/UserDetailsServiceImpl.java
